@@ -1,14 +1,8 @@
+
 import {
-    mahir,
-    digitmg,
-    peroptyx,
-    headstarter
-} from ". ./assets/images";
-import {
-    car,
+   
     contact,
     css,
-    estate,
     git,
     github,
     html,
@@ -16,10 +10,11 @@ import {
     linkedin,
     mongodb,
     nodejs,
-    pricewise,
-    snapgram,
-    summiz,
-    threads
+    mahir,
+    digitmg,
+    peroptyx,
+    headstarter
+   
 } from "../assets/icons";
 
 export const skills = [
