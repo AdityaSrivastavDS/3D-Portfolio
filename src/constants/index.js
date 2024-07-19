@@ -1,4 +1,9 @@
-
+import {
+    mahir,
+    digitmg,
+    peroptyx,
+    headstarter
+} from ". ./assets/images";
 import {
     car,
     contact,
@@ -184,7 +189,7 @@ export const experiences = [
     {
         title: "SWE Fellow",
         company_name: "Headstarter AI",
-        icon: "./assets/images/headstarter.png",
+        icon: headstarter,
         iconBg: "#accbe1",
         date: "July 2024 - Ongoing",
         points: [
@@ -209,7 +214,7 @@ export const experiences = [
     {
         title: "Founder",
         company_name: "Mahir Insight Institute",
-        icon: "./assets/images/mahir.png",
+        icon: mahir,
         iconBg: "#b7e4c7",
         date: "September 2023 - Forever",
         points: [
@@ -235,7 +240,7 @@ export const experiences = [
     {
         title: "Data Analyst | FTE",
         company_name: "Peroptyx",
-        icon: "./assets/images/peroptyx.png",
+        icon: peroptyx,
         iconBg: "#a2d2ff",
         date: "June 2024 - July 2024",
         points: [
@@ -248,7 +253,7 @@ export const experiences = [
     {
         title: "Data Science Trainee",
         company_name: "360DigiTMG",
-        icon: "./assets/images/digitmg.png",
+        icon: digitmg,
         iconBg: "#a2d2ff",
         date: "October 2023 - November 2023",
         points: [
