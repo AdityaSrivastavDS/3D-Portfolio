@@ -1,4 +1,4 @@
-import { peroptyx, digitmg , mahir} from "../assets/icons";
+import { peroptyx, digitmg , mahir} from "src/constants/index.js";
 import {
     car,
     contact,
