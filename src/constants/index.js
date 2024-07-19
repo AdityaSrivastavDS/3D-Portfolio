@@ -1,4 +1,4 @@
-import { peroptyx, digitmg , mahir, headstarter} from ".src/assets/icons";
+import { peroptyx, digitmg , mahir, headstarter} from "/src/assets/icons";
 import {
     car,
     contact,
