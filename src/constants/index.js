@@ -113,7 +113,6 @@ export const experiences = [
     {
         title: "SWE Fellow",
         company_name: "Headstarter AI",
-        icon: ,
         iconBg: "#accbe1",
         date: "July 2024 - Ongoing",
         points: [
