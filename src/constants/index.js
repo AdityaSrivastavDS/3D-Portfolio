@@ -186,7 +186,7 @@ export const skills = [
         imageUrl: "https://img.icons8.com/?size=100&id=67578&format=png&color=000000",
         name: "MS Office",
         type: "Backend",
-    },
+    }
 ];
 
 export const experiences = [
