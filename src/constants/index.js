@@ -1,4 +1,4 @@
-import { peroptyx, digitmg , mahir, headstarter} from "../assets/icons";
+import { peroptyx, digitmg , mahir} from "../assets/icons";
 import {
     car,
     contact,
@@ -113,7 +113,7 @@ export const experiences = [
     {
         title: "SWE Fellow",
         company_name: "Headstarter AI",
-        icon: headstarter,
+        icon: ,
         iconBg: "#accbe1",
         date: "July 2024 - Ongoing",
         points: [
