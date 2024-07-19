@@ -9,11 +9,7 @@ import {
     javascript,
     linkedin,
     mongodb,
-    nodejs,
-    mahir,
-    digitmg,
-    peroptyx,
-    headstarter
+    nodejs
    
 } from "../assets/icons";
 
