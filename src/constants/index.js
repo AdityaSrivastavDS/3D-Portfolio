@@ -1,4 +1,4 @@
-import { mahir, peroptyx, headstarter, digitmg } from "../assets/images";
+export { mahir, peroptyx, headstarter, digitmg } from "../assets/images";
 import {
    
     contact,
