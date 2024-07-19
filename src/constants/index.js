@@ -397,7 +397,7 @@ export const projects = [
         link: 'https://github.com/AdityaSrivastavDS/Java-Complete-Guide',
     },
     {
-        iconUrl: summiz,
+        iconUrl: "./assets/images/data.png",
         theme: 'btn-back-yellow',
         name: 'Data Science Complete Guide',
         description: 'Welcome to the Data Science Guide Repository! This repository contains comprehensive resources and examples to help you learn Data Science concepts.',
