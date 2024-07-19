@@ -1,15 +1,16 @@
 import hero from './hero.jpg'
-import meta from './meta.png'
-import shopify from './shopify.png'
-import starbucks from './starbucks.png'
-import tesla from './tesla.png'
 import logo from './logo.svg'
+import mahir from './mahir.png'
+import peroptyx from  './peroptyx.png'
+import digitmg from './digitmg.png'
+import headstarter from './headstarter.png'
 
 export {
     hero,
-    meta,
-    shopify,
-    starbucks,
-    tesla,
-    logo
+    logo,
+    mahir,
+    headstarter,
+    peroptyx,
+    digitmg
+   
 }
