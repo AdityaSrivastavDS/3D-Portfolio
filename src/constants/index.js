@@ -63,18 +63,18 @@ export const skills = [
         type: "Database",
     },
     {
-        imageUrl: motion,
-        name: "Motion",
+        imageUrl: "https://img.icons8.com/?size=100&id=mOCU2P4rcj4p&format=png&color=000000",
+        name: "Data Anlaytics",
         type: "Animation",
     },
     {
-        imageUrl: mui,
-        name: "Material-UI",
+        imageUrl: "https://img.icons8.com/color/48/000000/heroku.png",
+        name: "Heroku",
         type: "Frontend",
     },
     {
-        imageUrl: nextjs,
-        name: "Next.js",
+        imageUrl: "https://img.icons8.com/?size=100&id=GBu1KXnCZZ8j&format=png&color=000000",
+        name: "Machine Learning",
         type: "Frontend",
     },
     {
@@ -83,30 +83,110 @@ export const skills = [
         type: "Backend",
     },
     {
-        imageUrl: react,
-        name: "React",
+        imageUrl: "https://img.icons8.com/color/48/000000/css3.png",
+        name: "CSS3",
         type: "Frontend",
     },
     {
-        imageUrl: redux,
-        name: "Redux",
+        imageUrl: "https://img.icons8.com/color/48/000000/c-plus-plus-logo.png",
+        name: "C++",
         type: "State Management",
     },
     {
-        imageUrl: sass,
-        name: "Sass",
+        imageUrl: "https://img.icons8.com/?size=100&id=W0YEwBDDfTeu&format=png&color=000000",
+        name: "Figma",
         type: "Frontend",
     },
     {
-        imageUrl: tailwindcss,
-        name: "Tailwind CSS",
+        imageUrl: "https://cdn.icon-icons.com/icons2/2415/PNG/64/csharp_original_logo_icon_146578.png",
+        name: "C#",
         type: "Frontend",
     },
     {
-        imageUrl: typescript,
-        name: "TypeScript",
+        imageUrl: "http://sharptutorial.com/wp-content/uploads/2018/11/icons8-c-programming-1.png",
+        name: "C",
         type: "Frontend",
-    }
+    },
+    {
+        imageUrl: "https://img.icons8.com/?size=100&id=lIjOYS10WPHg&format=png&color=000000",
+        name: "Data Science",
+        type: "Backend",
+    },
+    {
+        imageUrl: "https://img.icons8.com/ios-filled/50/000000/flask.png",
+        name: "Flask",
+        type: "Backend",
+    },
+    {
+        imageUrl: "https://img.icons8.com/fluency/48/000000/android-os.png",
+        name: "Android",
+        type: "Backend",
+    },
+    {
+        imageUrl: "https://img.icons8.com/color/48/000000/canva.png",
+        name: "Canva",
+        type: "Backend",
+    },
+    {
+        imageUrl: "https://img.icons8.com/?size=100&id=gav46YArUSy1&format=png&color=000000",
+        name: "Adobe",
+        type: "Backend",
+    },
+    {
+        imageUrl: "https://img.icons8.com/?size=100&id=5NqU0lK0gFDU&format=png&color=000000",
+        name: "Product Management",
+        type: "Backend",
+    },
+    {
+        imageUrl: "https://img.icons8.com/color/48/000000/sql.png",
+        name: "SQL",
+        type: "Backend",
+    },
+    {
+        imageUrl: "https://img.icons8.com/color/48/000000/oracle-logo.png",
+        name: "Oracle",
+        type: "Backend",
+    },
+    {
+        imageUrl: "https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo.png",
+        name: "Netlify",
+        type: "Backend",
+    },
+    {
+        imageUrl: "https://img.icons8.com/color/48/000000/wordpress.png",
+        name: "WordPress",
+        type: "Backend",
+    },
+    {
+        imageUrl: "https://img.icons8.com/color/48/000000/mysql-logo.png",
+        name: "MySQL",
+        type: "Backend",
+    },
+    {
+        imageUrl: "https://webmobtechcdn.nyc3.cdn.digitaloceanspaces.com/wmt_v4/2021/07/Microsoft-Azure.png",
+        name: "Azure",
+        type: "Backend",
+    },
+    {
+        imageUrl: "https://cdn.windowsreport.com/wp-content/uploads/2019/08/Power-BI-LOGO-70x70.png",
+        name: "Power BI",
+        type: "Backend",
+    },
+    {
+        imageUrl: "https://th.bing.com/th/id/OIP.n6mtoLHRrbCfxbQxfFiQxwAAAA?rs=1&pid=ImgDetMain",
+        name: "Tableau",
+        type: "Backend",
+    },
+    {
+        imageUrl: "https://1directionglobal.com/wp-content/uploads/2020/09/Logo-IBM-Cognos-Analytics.png",
+        name: "IBM Cognos",
+        type: "Backend",
+    },
+    {
+        imageUrl: "https://img.icons8.com/?size=100&id=67578&format=png&color=000000",
+        name: "MS Office",
+        type: "Backend",
+    },
 ];
 
 export const experiences = [
