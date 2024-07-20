@@ -348,14 +348,14 @@ export const projects = [
         theme: 'btn-back-red',
         name: 'Amazon Review Sentiment Amnalyzer Web App',
         description: 'Sentiment analysis tool to classify reviews as positive, negative, or neutral, and provides a visual representation of the sentiment distribution.',
-        link: 'https://amazon-sentiment-analysis-review-web-app.onrender.com/',
+        link: 'https://amazon-review-sentiment-analyzer-production.up.railway.app/',
     },
     {
         iconUrl:"https://img.icons8.com/?size=100&id=ZEzrJurDeYnP&format=png&color=000000",
         theme: 'btn-back-green',
         name: 'Heart Attack Predictor Web App',
         description: 'Developed a Heart Attack Predictor web application aimed at assessing the risk of heart attacks based on user input of key health metrics. ',
-        link: 'https://heart-attack-predictor-fhmr.onrender.com/',
+        link: 'https://heart-attack-prediction-webapp-production.up.railway.app/',
     },
     {
         iconUrl: "https://img.icons8.com/?size=100&id=21295&format=png&color=000000",
