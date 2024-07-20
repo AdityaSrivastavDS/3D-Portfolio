@@ -222,7 +222,7 @@ export const experiences = [
     },
     {
         title: "Tech Venture Capitalist Intern",
-        company_name: "Hp",
+        company_name: "Hp | Lucknow",
         icon: "https://img.icons8.com/?size=100&id=69455&format=png&color=000000",
         iconBg: "#a2d2ff",
         date: "May 2024 - July 2024",
@@ -235,7 +235,7 @@ export const experiences = [
     },
     {
         title: "Data Analyst | FTE",
-        company_name: "Peroptyx",
+        company_name: "Peroptyx | Delhi",
         icon: peroptyx,
         iconBg: "#a2d2ff",
         date: "June 2024 - July 2024",
@@ -261,7 +261,7 @@ export const experiences = [
     },
     {
         title: "Business Analyst Intern",
-        company_name: "Tata",
+        company_name: "Tata | Lucknow",
         icon: "https://img.icons8.com/?size=100&id=pTx0jdlttlwQ&format=png&color=000000",
         iconBg: "#a2d2ff",
         date: "August 2023 - August 2023",
@@ -272,7 +272,7 @@ export const experiences = [
     },
     {
         title: "Data Analyst Intern",
-        company_name: "IBM",
+        company_name: "IBM | Bangalore",
         icon: "https://img.icons8.com/?size=100&id=31754&format=png&color=000000",
         iconBg: "#a2d2ff",
         date: "June 2023 - July 2023",
