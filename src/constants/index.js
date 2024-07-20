@@ -173,6 +173,11 @@ export const skills = [
         imageUrl: "https://img.icons8.com/?size=100&id=67578&format=png&color=000000",
         name: "MS Office",
         type: "Backend",
+    },
+    {
+        imageUrl: "https://img.icons8.com/?size=100&id=lTKW3iI3wIT0&format=png&color=000000",
+        name: "Java",
+        type: "Backend",
     }
 ];
 
