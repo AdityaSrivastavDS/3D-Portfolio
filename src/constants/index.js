@@ -351,7 +351,7 @@ export const projects = [
     {
         iconUrl: "https://img.icons8.com/?size=100&id=R3SjD8mgrmca&format=png&color=000000",
         theme: 'btn-back-red',
-        name: 'Amazon Review Sentiment Amnalyzer Web App',
+        name: 'Amazon Review Sentiment Analyzer Web App',
         description: 'Sentiment analysis tool to classify reviews as positive, negative, or neutral, and provides a visual representation of the sentiment distribution.',
         link: 'https://amazon-review-sentiment-analyzer-production.up.railway.app/',
     },
