@@ -182,19 +182,7 @@ export const skills = [
 ];
 
 export const experiences = [
-    {
-        title: "SWE Fellow",
-        company_name: "Headstarter AI",
-        icon: headstarter,
-        iconBg: "#accbe1",
-        date: "July 2024 - Ongoing",
-        points: [
-            "Developing and maintaining web applications using React.js and other related technologies.",
-            "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-            "Implementing responsive design and ensuring cross-browser compatibility.",
-            "Participating in code reviews and providing constructive feedback to other developers.",
-        ],
-    },
+    
     {
         title: "Student Ambassador",
         company_name: "Microsoft",
@@ -205,6 +193,19 @@ export const experiences = [
             "Orchestrated 5 hackathons, conducted 10 coding competitions, and hosted 15 tech talks, yielding a 30% enhancement in students' technical proficiency.",
             "Guided 3 collaborative projects, demonstrating practical applications of Microsoft technologies, earning recognition and adoption from industry experts.",
             "Mentored 100 students, leading to 20 successful placements in top technology firms.",
+        ],
+    },
+    {
+        title: "SWE Fellow",
+        company_name: "Headstarter AI",
+        icon: headstarter,
+        iconBg: "#accbe1",
+        date: "July 2024 - August 2024",
+        points: [
+            "Developing and maintaining web applications using React.js and other related technologies.",
+            "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+            "Implementing responsive design and ensuring cross-browser compatibility.",
+            "Participating in code reviews and providing constructive feedback to other developers.",
         ],
     },
     {
