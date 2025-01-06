@@ -200,7 +200,7 @@ export const experiences = [
         company_name: "Headstarter AI",
         icon: headstarter,
         iconBg: "#accbe1",
-        date: "July 2024 - August 2024",
+        date: "August 2024 - August 2024",
         points: [
             "Developing and maintaining web applications using React.js and other related technologies.",
             "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -239,7 +239,7 @@ export const experiences = [
         company_name: "Peroptyx | Delhi",
         icon: peroptyx,
         iconBg: "#a2d2ff",
-        date: "June 2024 - July 2024",
+        date: "March 2024 - March 2024",
         points: [
             "Developing and maintaining data models, dashboards, and reports using SQL, Power BI, and other related technologies.",
             "Collaborating with cross-functional teams including data engineers, product managers, and other stakeholders to deliver high-quality data solutions.",
