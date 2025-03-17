@@ -1,4 +1,4 @@
-import { mahir, peroptyx, headstarter, digitmg } from "../assets/images";
+import { mahir, peroptyx, headstarter, digitmg, ms } from "../assets/images";
 import {
    
     contact,
