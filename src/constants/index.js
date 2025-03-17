@@ -75,7 +75,7 @@ export const skills = [
         type: "Frontend",
     },
     {
-        imageUrl: "https://img.icons8.com/color/48/000000/c-plus-plus-logo.png",
+        imageUrl: "https://img.icons8.com/?size=100&id=kDrPEJpRMtSD&format=png&color=000000",
         name: "C++",
         type: "State Management",
     },
@@ -85,8 +85,8 @@ export const skills = [
         type: "Frontend",
     },
     {
-        imageUrl: "https://cdn.icon-icons.com/icons2/2415/PNG/64/csharp_original_logo_icon_146578.png",
-        name: "C#",
+        imageUrl: "https://img.icons8.com/?size=100&id=t7vIvDXazOGO&format=png&color=000000",
+        name: "Rust",
         type: "Frontend",
     },
     {
@@ -177,6 +177,21 @@ export const skills = [
     {
         imageUrl: "https://img.icons8.com/?size=100&id=lTKW3iI3wIT0&format=png&color=000000",
         name: "Java",
+        type: "Backend",
+    },
+    {
+        imageUrl: "https://img.icons8.com/?size=100&id=117561&format=png&color=000000",
+        name: "MS Excel",
+        type: "Backend",
+    },
+    {
+        imageUrl: "https://img.icons8.com/?size=100&id=Vra58PN2KmI5&format=png&color=000000",
+        name: "React",
+        type: "Frontend",
+    },
+    {
+        imageUrl: "https://img.icons8.com/?size=100&id=laYYF3dV0Iew&format=png&color=000000",
+        name: "Microsoft SQL Server",
         type: "Backend",
     }
 ];
@@ -281,7 +296,7 @@ export const experiences = [
         company_name: "Morgan Stanley",
         icon: ms,
         iconBg: "#a2d2ff",
-        date: "August 2023 - August 2023",
+        date: "November 2022 - February 2023",
         points: [
             "Worked on data structures and algorithms, optimizing code for better performance and efficiency.",
             "Gained hands-on experience in database management, including SQL queries and normalization techniques.",
