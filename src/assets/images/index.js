@@ -4,6 +4,7 @@ import mahir from './mahir.png'
 import peroptyx from  './peroptyx.png'
 import digitmg from './digitmg.png'
 import headstarter from './headstarter.png'
+import ms from './ms.jpg'
 
 export {
     hero,
@@ -11,6 +12,6 @@ export {
     mahir,
     headstarter,
     peroptyx,
-    digitmg
-   
+    digitmg,
+    ms
 }
