@@ -321,7 +321,7 @@ export const socialLinks = [
     {
         name: 'LinkedIn',
         iconUrl: linkedin,
-        link: 'https://www.linkedin.com/in/adityamlsa/',
+        link: 'https://www.linkedin.com/in/adityasrivastav1/',
     },
     {
         name: 'Devfolio',
