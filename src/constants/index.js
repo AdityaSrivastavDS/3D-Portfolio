@@ -231,7 +231,7 @@ export const experiences = [
         company_name: "Headstarter AI",
         icon: headstarter,
         iconBg: "#accbe1",
-        date: "September 2024 - September 2024",
+        date: "April 2024 - September 2024",
         points: [
             "Worked with different teams to add new features, making product launches 15% faster and boosting user engagement by 35%.",
             "Built scalable software, improving system performance by 25% and cutting load times by 30%.",
